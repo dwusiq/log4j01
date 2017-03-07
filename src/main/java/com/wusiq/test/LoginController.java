@@ -13,8 +13,9 @@ public class LoginController {
 }
   
   public void asd(){
-	  log.info("ĞÅÏ¢´òÓ¡");
-	  log.debug("¾¯¸æĞÅÏ¢´òÓ¡");
-	  log.error("´íÎóĞÅÏ¢´òÓ¡");
+	  log.info("ä¸€èˆ¬æ¶ˆæ¯");
+	  log.debug("è°ƒè¯•æ¶ˆæ¯");
+	  log.warn("è­¦å‘Šæ¶ˆæ¯");
+	  log.error("é”™è¯¯æ¶ˆæ¯");
   }
 }
